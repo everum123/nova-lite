@@ -3,3 +3,4 @@ slowapi
 uvicorn
 aiofiles
 python-dotenv
+aiohttp
